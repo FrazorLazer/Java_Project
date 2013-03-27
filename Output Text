@@ -1,0 +1,250 @@
+package test;
+
+public class OutputText
+{
+    
+ //  private String text;
+ //  private int index;
+   
+ //  public AppletonText(String text, int index)
+ //  {
+  //     this.index = index;
+  //     this.text = text;
+   //}
+   
+   
+   public static String Appleton(int i)
+   {
+       if (i == 1)
+       {
+           return "You have entered Appleton" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "no" + "\n";
+       
+   }
+      public static String HughRobson(int i)
+   {
+       if (i == 1)
+       {
+           return "You have entered Hugh Robson" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "no" + "\n";
+       
+   }
+         public static String Teviot(int i)
+   {
+       if (i == 1)
+       {
+           return "You have entered Teviot" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "no" + "\n";
+       
+   }
+            public static String Library(int i)
+   {
+       if (i == 1)
+       {
+           return "You have entered The Library" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "no" + "\n";
+       
+   }
+               public static String IF(int i)
+   {
+       if (i == 1)
+       {
+           return "You have entered the Informatics Forum" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "no" + "\n";
+       
+   }
+                  public static String David(int i)
+   {
+       if (i == 1)
+       {
+           return "You have entered David Hume Tower" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "no" + "\n";
+       
+   }
+   
+      public static String Bus(int i)
+   {
+       if (i == 1)
+       {
+           return "You are inside the Business School" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "";
+       
+   }
+         public static String GSLT(int i)
+   {
+       if (i == 1)
+       {
+           return "You are inside George Square Lecture Theatre" + "\n";
+       }
+       else if (i == 2)
+       {
+           return "You have reached the Stairs" + "\n";
+       }
+       else if (i == 3)
+       {
+           return "You have reached the first floor" + "\n";
+       }
+       else if (i == 4)
+       {
+           return "You have reached the second floor" + "\n";
+       }
+       else if (i == 5)
+       {
+           return "You have reached the third floor" + "\n";
+       }
+       else if (i == 6)
+       {
+           return "The way is blocked, you must move back" + "\n";   
+       }
+       return "";
+       
+   }
+   
+}
